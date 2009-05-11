@@ -1,6 +1,0 @@
-downloader:axel
-noofpieces:5
-httpproxy:http://localhost:5865
-ftpproxy:http://localhost:5865
-savedir:/home/vijay/stuff/downloads/axel
-downloadsview:Download;Status;TotalSize;Speed;Downloader;Pieces;Url;SaveDir;ElapsedTime;EstimatedTime;DateAdded

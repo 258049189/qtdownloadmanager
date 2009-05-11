@@ -18,3 +18,7 @@ qmake
 make
 
 sudo make install
+
+
+
+This will install QDM in /opt/QDM if u want to install the program somewhere else edit the QtDownloadManager.pro file accordingly.

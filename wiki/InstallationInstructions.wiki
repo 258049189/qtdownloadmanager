@@ -22,3 +22,14 @@ sudo make install
 
 
 This will install QDM in /opt/QDM if u want to install the program somewhere else edit the QtDownloadManager.pro file accordingly.
+
+
+If you dont want to compile.
+
+There are also binaries shared. just place the QDM folder to anywhere on the system and launch the application using the QDM.sh script
+
+
+U might have to change the permissions of the QDM.sh script
+
+
+sudo chmod +x QDM.sh

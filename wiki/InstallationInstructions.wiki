@@ -1,0 +1,11 @@
+#labels Phase-Implementation
+Get the source code from SVN by
+svn checkout http://qtdownloadmanager.googlecode.com/svn/trunk/ qtdownloadmanager
+
+U need to install qmake and qtlibraries to compile the code
+
+Then issue the following commands:
+cd qtdownloadmanager/QtDownloadManager
+qmake
+make
+sudo make install

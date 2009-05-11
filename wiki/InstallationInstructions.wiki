@@ -1,5 +1,5 @@
 #labels Phase-Implementation
-Get the source code from SVN by
+Get the source code from SVN by \n
 svn checkout http://qtdownloadmanager.googlecode.com/svn/trunk/ qtdownloadmanager
 
 U need to install qmake and qtlibraries to compile the code
